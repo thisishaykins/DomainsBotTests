@@ -8,6 +8,8 @@ A DomainsBot test Implementations
 
 2. Write a function which, given a string, finds the length of the longest substring without repeating characters.
 
+    Run this code using: ```python longest_unique_substr.py```
+
 ## For Bugs & Contribution
 Kindly reach out to via email: [akinsholasamuel@gmail.com](mailto:akinsholasamuel@gmail.com)
 
